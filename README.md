@@ -1,20 +1,20 @@
-## Getting Started
-# Step 1: Start the Metro Server
+# Getting Started
+## Step 1: Start the Metro Server
 First, you will need to start Metro, the JavaScript bundler that ships with React Native.
 To start Metro, run the following command from the root of your React Native project:
-# using npm
+## using npm
 npm start
-# OR using Yarn
+## OR using Yarn
 yarn start
-# Step 2: Start your Application
-For Android
-# npm run android
-For IOS
-# cd ios
-# pod install
-# cd ..
-# npm run ios
-# Libraries that I used:
+## Step 2: Start your Application
+## For Android
+npm run android
+## For IOS
+cd ios
+pod install
+cd ..
+npm run ios
+Libraries that I used:
 @react-native-community/blur - blur background component
 @react-native-community/netinfo - to obtain information about the user's network
 @react-navigation/bottom-tabs - to display buttons in the bottom navigation bar
